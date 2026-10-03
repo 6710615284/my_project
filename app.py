@@ -1,3 +1,1 @@
-print("Hello Git")
-print("Git is awesome!")
-print("Learning Git!")
+print("Hello from MAIN")
